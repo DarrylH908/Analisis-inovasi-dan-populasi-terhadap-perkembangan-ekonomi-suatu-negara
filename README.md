@@ -10,7 +10,7 @@
 # Data : https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2024-en-global-innovation-index-2024.pdf
 
 # Hasil Regresi
-![alt text]("C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (106).png")
+<p><img src = "C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot (106).png"/></p>
 
 # Hasil dan Kesimpulan
 ## Dari hasil analisis regresi linear berganda dinyatakan bahwa populasi berpengaruh negatif terhadap perkembangan ekonomi suatu negara sedangkan inovasi berpengaruh positif terhadap perkembangan ekonomi suatu negara ini dikarenakan semakin banyak populasi maka lapanagan kerja harus dibuka sebanyak banyaknya dengan kebijakan pemerintah maupun dari orang yang berminat jadi pengusaha sedangkan inovasi yang membantu mengatasi kekurangan lapangan kerja sehingga meningkatkan ekonomi suatu negara dengan cara melakukan reformasi ataupun meningkatan teknologi suatu negara tersebut menjadi lebih unggul walaupun ada sisi negatifnya. Dan juga dari hasil ekonometrika pada kode uji asumsi ***BLUE*** dinyatakan mematuhi asumsi BLUE dan tidak ada pelanggaran asumsi klasik dikarenakan tidak adanya heterokedastisitas, autokorelasi, multikolinearitas walaupun asumsi normlaitas tidak terpenuhi.
