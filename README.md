@@ -5,6 +5,7 @@
 
 # Metode Analisis
 ## Metode yang digunakan dalam analisis ini adalah:
+- Alat Analisa : Rstudio dan Microsoft Excel
 - Regresi Linear Berganda
 - Uji Asumsi Klasik (BLUE) :
   -  Multikolinearitas (VIF)
