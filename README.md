@@ -9,7 +9,7 @@
 - Uji Asumsi Klasik
 # Data : https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2024-en-global-innovation-index-2024.pdf
 
-# Hasil Regresi!
+# Hasil Regresi
 ![Screenshot (106)](https://github.com/user-attachments/assets/f18a948e-5c3c-4df4-912f-f7e687a0296d)
 
 # Hasil dan Kesimpulan
