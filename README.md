@@ -6,7 +6,12 @@
 # Metode Analisis
 ## Metode yang digunakan dalam analisis ini adalah:
 - Regresi Linear Berganda
-- Uji Asumsi Klasik
+- Uji Asumsi Klasik (BLUE) :
+-  Multikolinearitas (VIF)
+-  Heteroskedastisitas (Breusch Pagan)
+-  Autokorelasi (Durbin Watson Test)
+-  Normalitas (Jarque Bera Test)
+  
 # Data : https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2024-en-global-innovation-index-2024.pdf
 
 # Hasil Regresi
